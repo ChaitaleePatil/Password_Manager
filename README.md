@@ -23,8 +23,4 @@ A simple and efficient password manager built using Python and Tkinter. This app
 - Tkinter module (usually comes pre-installed with Python)
 - `pyperclip` module for copying passwords to the clipboard
 
-### Installing
 
-1. Clone the repository or download the zip file.
-   ```sh
-   git clone https://github.com/yourusername/password-manager.git
